@@ -1,4 +1,7 @@
 gcd-courseproject
 =================
 
-Repo for the Course Project in Getting and Cleaning Data
+
+
+## Notes
+Data is tidied according to best practices in "Tidy Data" (http://vita.had.co.nz/papers/tidy-data.pdf).
