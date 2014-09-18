@@ -6,9 +6,6 @@ date: "September 16, 2014"
 output: html_document
 ---
 
-
-## Variables
-    
 ## Input Data
 Input data is taken from the following sources, which are space-delimited text files:
 
@@ -18,7 +15,7 @@ List of Subjects   | `test/subject_test.txt` | `train/subject_train.txt`
 List of Activities | `test/y_test.txt`       | `train/y_train.txt`
 Sensor Measurements| `test/X_test.txt`       | `train/X_train.txt`
 
-In addition, activity labels (walking, running, etc.) are loaded from `activity_labels.txt`, and column labels for measurements are loaded from `features.txt`.
+In addition, activity labels (walking, standing, etc.) are loaded from `activity_labels.txt`, and column labels for measurements are loaded from `features.txt`.
 
 Test and Training data are separate in the input data, but are merged in this analysis.
 
