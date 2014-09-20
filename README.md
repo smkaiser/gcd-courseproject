@@ -21,4 +21,6 @@ This script
 * Summarizes the result into a dataset that shows the mean of each measurement, grouped by activity and subject.
 
 ## Notes
-Data is tidied according to best practices in "Tidy Data" (http://vita.had.co.nz/papers/tidy-data.pdf).
+Data is tidied according to recommendations in "Tidy Data" (http://vita.had.co.nz/papers/tidy-data.pdf).
+
+Many ideas and helpful hints were found in this discussion thread: https://class.coursera.org/getdata-007/forum/thread?thread_id=49
