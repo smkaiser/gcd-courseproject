@@ -9,6 +9,7 @@
 The `dplyr` and `reshape2` packages are required.
 
 ## How to run the analysis
+Download and unzip the UCI HAR Dataset from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
 Set your working directory to the top level of the UCI HAR Dataset (the directory contains activity_labels.txt, features.txt, and so on).
 Using R, execute `run_analysis.R`
 
