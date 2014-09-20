@@ -35,3 +35,8 @@ tBodyAcc.mean.X
 
 ## Output
 The output data.frame named `means` is a dataset containing the mean of each measurement, grouped by Activity and Subject. Variable names are modified with `mean.` at the beginning to reflect this. For example, `mean.tBodyAcc.mean.Y` indicates that we are showing the mean of all the `tBodyAcc.mean.Y` measurements.
+
+### Output Columns
+* `Activity`: Type of activity. See `activity_labels.txt` for a complete list.
+* `Subject`: Anonymous subject (person) identifier.
+* `mean.tBodyAcc.mean.X`, `mean.tBodyAcc.mean.Y`, etc.: Means of original input data for this unique Activity-Subject grouping
