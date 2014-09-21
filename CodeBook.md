@@ -8,7 +8,7 @@ output: html_document
 
 ## Input Data
 
-A description of the source data is available here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+A description of the source data is available here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones. Within the downloaded data, please see `README.txt` and `features_info.txt` for details about the data.
 
 Input data is taken from the following sources, which are space-delimited text files:
 
