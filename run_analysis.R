@@ -16,6 +16,7 @@ cleanName <- function(inputString) {
          inputString)))
 }
 
+# Main function
 extractMeans <- function() {
     # Load required libraries
     library(dplyr)
